@@ -1,0 +1,25 @@
+Survey Name :                                   Tanunda
+Area:                                           Nuriootpa
+Flight :                                        F1
+Local Date:                                     190411
+Aircraft Call Sign:                             OBS
+Approx local time:                              12:30
+Pilot:                                          CC
+Instruments:                                    RM
+
+=======================================================================
+
+SENSOR CONFIGURATION
+
+Left Pod:                                       Eagle, RT096
+Left Pylon:                                     Empty
+Right Pod:                                      Q680, Span680, Canon 5D mk4 (24mm L2), RT472
+Right Pylon:                                    FLIR615, RT135(vertical mount)
+Other instrument locations:                     n/a
+Instrument irregularities:
+Span not set up??
+
+=======================================================================
+
+FLIGHT NOTES
+Conditions pretty good - bumpy, clear skies

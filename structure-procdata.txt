@@ -1,0 +1,8 @@
+${DRIVE}/${SURVEY_NAME}/Procdata/%yymmdd%_%ff%
+${DRIVE}/${SURVEY_NAME}/Procdata/%yymmdd%_%ff%/${CALLSIGN}
+${DRIVE}/${SURVEY_NAME}/Procdata/%yymmdd%_%ff%/${CALLSIGN}/ExtractedData
+${DRIVE}/${SURVEY_NAME}/Procdata/%yymmdd%_%ff%/${CALLSIGN}/ExtractedData/procNav
+${DRIVE}/${SURVEY_NAME}/Procdata/%yymmdd%_%ff%/${CALLSIGN}/ExtractedData/procHRcam
+${DRIVE}/${SURVEY_NAME}/Procdata/%yymmdd%_%ff%/${CALLSIGN}/ExtractedData/proc6D
+${DRIVE}/${SURVEY_NAME}/Procdata/%yymmdd%_%ff%/${CALLSIGN}/ExtractedData/procLidar
+${DRIVE}/${SURVEY_NAME}/Procdata/%yymmdd%_%ff%/${CALLSIGN}/procOther

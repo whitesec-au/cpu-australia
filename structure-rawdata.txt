@@ -1,0 +1,9 @@
+${DRIVE}/${SURVEY_NAME}/Rawdata/%yymmdd%
+${DRIVE}/${SURVEY_NAME}/Rawdata/%yymmdd%/BasestationData
+${DRIVE}/${SURVEY_NAME}/Rawdata/%yymmdd%/${CALLSIGN}
+${DRIVE}/${SURVEY_NAME}/Rawdata/%yymmdd%/${CALLSIGN}/rawNav
+${DRIVE}/${SURVEY_NAME}/Rawdata/%yymmdd%/${CALLSIGN}/rawNav/IMU
+${DRIVE}/${SURVEY_NAME}/Rawdata/%yymmdd%/${CALLSIGN}/rawHRcam
+${DRIVE}/${SURVEY_NAME}/Rawdata/%yymmdd%/${CALLSIGN}/raw6D
+${DRIVE}/${SURVEY_NAME}/Rawdata/%yymmdd%/${CALLSIGN}/rawLidar
+${DRIVE}/${SURVEY_NAME}/Rawdata/%yymmdd%/${CALLSIGN}/FlightInfo
