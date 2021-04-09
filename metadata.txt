@@ -1,0 +1,26 @@
+Survey Name :                                   ${SURVEY_NAME}
+Area:                                           ${AREA}
+Flight :                                        ${FF}
+Local Date:                                     ${DATE}
+Aircraft Call Sign:                             ${CALLSIGN}
+Approx local time:                              ${TIME}
+Pilot:                                          ${PILOT}
+Instruments:                                    ${INSTRUMENTS}
+
+=======================================================================
+
+SENSOR CONFIGURATION
+
+Left Pod:                                       Eagle, RT096
+Left Pylon:                                     Empty
+Right Pod:                                      Q680, Span680, Canon 5D mk4 (24mm L2), RT472
+Right Pylon:                                    FLIR615, RT135(vertical mount)
+Other instrument locations:                     n/a
+Instrument irregularities:
+Span not set up??
+
+=======================================================================
+
+FLIGHT NOTES
+Conditions pretty good - bumpy, clear skies
+${NOTES}

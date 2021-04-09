@@ -1,0 +1,19 @@
+DRIVE = C
+SURVEY_NAME = Tanunda
+AREA = Nuriootpa
+
+# If this is missing or blank, the date is automatically entered
+DATE = 210410
+
+# Ensure flight number has an F prepended
+FF = F1
+
+CALLSIGN = OBS
+TIME = 12:30
+PILOT = CC
+INSTRUMENTS = RM
+
+# Just be sure custom variables for directory structure does not
+# clash with custom variables for metadata file
+
+NOTES = Stuff
